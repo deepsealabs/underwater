@@ -38,8 +38,6 @@ We welcome contributions to the core engine! To get started:
 2. Commit your changes and push: `git commit -m "Add new filter" && git push origin feature/my-new-filter`. 
 3. Open a pull request describing your changes.
 
-Please review our CONTRIBUTING.md and sign the Contributor License Agreement in `CLA.md`.
-
 ### License
 Underwater Core Engine is released under the `Apache License 2.0`. See LICENSE for details. Premium modules and hosted services are proprietary.
 
