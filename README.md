@@ -1,6 +1,10 @@
 
 ## Overview
 
+![GitHub forks](https://img.shields.io/github/forks/deepsealabs/underwater?style=social)
+![GitHub stars](https://img.shields.io/github/stars/deepsealabs/underwater?style=social)
+![License](https://img.shields.io/github/license/deepsealabs/underwater)
+
 Underwater is an open‑core color correction app for macOS and iOS, designed to bring professional-grade underwater video and photo enhancement tools to the community. It provides a robust, modular engine that anyone can inspect, extend, and integrate, while premium add‑ons and hosted services remain proprietary to support development.
 
 ### Features
