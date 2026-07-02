@@ -1,0 +1,9 @@
+.DS_Store
+.build/
+.swiftpm/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+target/
+
+# Private planning — pricing/monetization strategy, not for the public repo
+Docs/BUSINESS_MODEL.md
