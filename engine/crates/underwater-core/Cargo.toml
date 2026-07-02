@@ -1,0 +1,9 @@
+[package]
+name = "underwater-core"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "Underwater color-correction engine core: manual adjustments, RAW/video decode, GPU pipeline."
+
+[dependencies]
+image = { version = "0.25", default-features = false, features = ["png", "jpeg"] }

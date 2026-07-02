@@ -1,0 +1,10 @@
+[package]
+name = "underwater-cli"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "Phase 0 test harness for underwater-core — not a shipping product."
+
+[dependencies]
+underwater-core = { path = "../underwater-core" }
+clap = { version = "4", features = ["derive"] }
